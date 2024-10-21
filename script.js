@@ -67,8 +67,8 @@ ask(
 
 let calculator = {
   // Properties to store the values
-  a: 0,
-  b: 0,
+  a: 5,
+  b: 5,
 
   // Method to read two values
   read() {
